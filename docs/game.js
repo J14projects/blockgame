@@ -78,7 +78,7 @@ function draw() {
     }
 }
 
-const brickRowCount = 8; // ブロックの行数を10に変更
+const brickRowCount = 9; // ブロックの行数を10に変更
 const brickColumnCount = 12; // ブロックの列数を10に変更
 const brickWidth = 30; // ブロックの幅を50に変更
 const brickHeight = 15; // ブロックの高さを20に変更
